@@ -1,0 +1,147 @@
+[
+    {
+        "name": "Pancakes",
+        "ingredients": ["flour", "egg", "milk", "butter", "sugar"],
+        "instructions": "Mix flour, egg, milk, and sugar. Cook on a hot skillet with butter until golden."
+    },
+    {
+        "name": "Apple Pie",
+        "ingredients": ["apple", "flour", "butter", "sugar", "cinnamon"],
+        "instructions": "Mix sliced apples with sugar and cinnamon. Place in crust made from flour and butter, bake until golden."
+    },
+    {
+        "name": "Scrambled Eggs",
+        "ingredients": ["egg", "butter", "salt", "pepper"],
+        "instructions": "Whisk eggs with salt and pepper. Cook on a skillet with butter until soft and scrambled."
+    },
+    {
+        "name": "Omelette",
+        "ingredients": ["egg", "cheese", "milk", "salt", "pepper"],
+        "instructions": "Whisk eggs with milk, salt, and pepper. Pour onto a hot skillet, add cheese, and cook until firm."
+    },
+    {
+        "name": "Garlic Butter Salmon",
+        "ingredients": ["salmon", "garlic", "butter", "salt"],
+        "instructions": "Season the salmon with salt. Melt butter in a skillet and sauté garlic until fragrant. Place salmon in the skillet and cook until golden and cooked through."
+    },
+    {
+        "name": "Cheesy Broccoli Omelette",
+        "ingredients": ["egg", "broccoli", "cheese", "butter", "salt"],
+        "instructions": "Steam broccoli until tender. In a bowl, whisk eggs with salt. Melt butter in a skillet, pour in eggs, and sprinkle broccoli and cheese. Cook until eggs are set."
+    },
+    {
+        "name": "Miso Soup with Dumplings",
+        "ingredients": ["miso", "dumpling", "garlic", "vegetable", "soy sauce", "salt"],
+        "instructions": "In a pot, bring water to a boil. Add miso, garlic, vegetables, soy sauce, and salt. Add dumplings and cook until they float to the top. Serve hot."
+    },
+    {
+        "name": "Oatmeal with Jam",
+        "ingredients": ["oat", "jam"],
+        "instructions": "Cook oats in water or milk until thick. Top with jam and enjoy warm."
+    },
+    {
+        "name": "Cheesy Mushroom Pasta",
+        "ingredients": ["pasta", "mushroom", "cheese", "butter", "garlic", "salt"],
+        "instructions": "Cook pasta according to package instructions. In a skillet, sauté mushrooms and garlic in butter. Toss pasta with mushrooms and cheese. Season with salt."
+    },
+    {
+        "name": "Chicken and Broccoli Stir-fry",
+        "ingredients": ["chicken", "broccoli", "garlic", "soy sauce", "salt"],
+        "instructions": "Cut chicken into pieces. Stir-fry garlic and chicken in a skillet until chicken is cooked through. Add broccoli and soy sauce, cook until broccoli is tender."
+    },
+    {
+        "name": "Egg and Cheese Tortilla",
+        "ingredients": ["egg", "cheese", "tortilla", "butter", "salt"],
+        "instructions": "Whisk egg with salt. Melt butter in a skillet and pour egg mixture. Add cheese and cook until egg is set. Place on a tortilla and roll."
+    },
+    {
+        "name": "Sausage and Mushroom Skillet",
+        "ingredients": ["sausage", "mushroom", "butter", "garlic", "salt"],
+        "instructions": "Sauté sausage in a skillet until browned. Add butter, garlic, and mushrooms. Cook until mushrooms are tender. Season with salt to taste."
+    },
+    {
+        "name": "Broccoli Cheese Pasta",
+        "ingredients": ["pasta", "broccoli", "cheese", "salt"],
+        "instructions": "Cook pasta according to package instructions. Steam broccoli until tender. Toss pasta with broccoli, cheese, and salt."
+    },
+    {
+        "name": "Vegetable Stir-fry with Soy Sauce",
+        "ingredients": ["vegetable", "garlic", "soy sauce", "salt"],
+        "instructions": "Heat oil in a skillet, add garlic, and cook until fragrant. Add vegetables, soy sauce, and salt. Stir-fry until vegetables are tender."
+    },
+    {
+        "name": "Indomie Stir-Fry with Vegetables",
+        "ingredients": ["indomie", "vegetable", "soy sauce", "garlic", "salt"],
+        "instructions": "Cook indomie according to package instructions. In a skillet, stir-fry garlic and vegetables with soy sauce and salt. Add cooked indomie and toss well."
+    },
+    {
+        "name": "Sausage and Mushroom Indomie",
+        "ingredients": ["indomie", "sausage", "mushroom", "garlic", "butter", "salt"],
+        "instructions": "Cook indomie and set aside. In a skillet, cook sausage and mushroom in butter with garlic until browned. Add indomie and toss together."
+    },
+    {
+        "name": "Cheesy Indomie",
+        "ingredients": ["indomie", "cheese", "butter", "salt"],
+        "instructions": "Cook indomie and drain. Melt butter in a pan, add indomie, and mix with cheese until melted. Season with salt."
+    },
+    {
+        "name": "Apple Cinnamon Pancakes",
+        "ingredients": ["apple", "egg", "butter", "sugar", "salt"],
+        "instructions": "Grate the apple and mix with egg, melted butter, sugar, and a pinch of salt. Cook spoonfuls of batter on a hot skillet until golden on both sides."
+    },
+    {
+        "name": "Salmon Miso Soup",
+        "ingredients": ["salmon", "miso soup", "broccoli", "soy sauce", "pepper"],
+        "instructions": "Bring the miso soup to a boil, add soy sauce, and simmer with broccoli and salmon pieces until cooked. Season with pepper and serve hot."
+    },
+    {
+        "name": "Cheesy Broccoli Tortilla Wrap",
+        "ingredients": ["tortilla", "cheese", "broccoli", "butter"],
+        "instructions": "Steam the broccoli until tender, then layer it with cheese in a tortilla. Heat butter in a skillet and grill the wrap until golden and cheese is melted."
+    },
+    {
+        "name": "Chicken and Broccoli Pasta",
+        "ingredients": ["chicken", "broccoli", "pasta", "salt", "pepper"],
+        "instructions": "Cook pasta until al dente. Sauté chicken pieces with salt and pepper, then add steamed broccoli and pasta. Toss together and season as needed."
+    },
+    {
+        "name": "Taco-Seasoned Nacho Cheese Tortilla Wrap",
+        "ingredients": ["tortilla", "nacho cheese", "taco seasoning"],
+        "instructions": "Spread nacho cheese on the tortilla, sprinkle taco seasoning, then roll up. Grill lightly in a skillet until warmed and slightly crisp."
+    },
+    {
+        "name": "Miso Dumpling Soup",
+        "ingredients": ["miso soup", "dumpling", "soy sauce", "pepper"],
+        "instructions": "Prepare miso soup and add dumplings. Season with soy sauce and pepper. Cook until dumplings are tender and serve hot."
+    },
+    {
+        "name": "Chili Garlic Broccoli Stir-fry",
+        "ingredients": ["broccoli", "garlic", "chili sauce", "soy sauce", "pepper"],
+        "instructions": "Stir-fry garlic and broccoli, then add chili sauce, soy sauce, and pepper for a spicy vegetable side dish."
+    },
+    {
+        "name": "Cheesy Chicken and Broccoli Nachos",
+        "ingredients": ["chicken", "broccoli", "nacho cheese", "taco seasoning"],
+        "instructions": "Bake chicken and steamed broccoli on a sheet, season with taco seasoning, and top with melted nacho cheese for cheesy, spicy nachos."
+    },
+    {
+        "name": "Almond Milk and Oat Porridge",
+        "ingredients": ["almond milk", "oat", "sugar"],
+        "instructions": "Cook oats in almond milk, add sugar to taste, and serve warm for a creamy porridge."
+    },
+    {
+        "name": "Egg and Cheese Breakfast Burrito",
+        "ingredients": ["tortilla", "egg", "cheese", "salt", "pepper"],
+        "instructions": "Whisk the egg with salt and pepper, cook in a skillet. Place on a tortilla with cheese and roll into a burrito."
+    },
+    {
+        "name": "Spicy Sausage Nachos",
+        "ingredients": ["nacho cheese", "sausage", "tortilla", "chili sauce"],
+        "instructions": "Slice sausage, spread nacho cheese on tortillas, add sausage slices and drizzle chili sauce. Bake until cheese melts."
+    },
+    {
+        "name": "Broccoli and Cheese Soup",
+        "ingredients": ["broccoli", "cheese", "butter", "salt", "pepper"],
+        "instructions": "Steam broccoli, then blend with cheese, butter, salt, and pepper for a creamy soup."
+    }
+]
